@@ -10,9 +10,6 @@ Internals and API functions for vira
 #   mike.boiko (Mike Boiko) <https://github.com/mikeboiko>
 # Version: 0.0.1
 
-# dev: let b:startapp = "pipenv run python "
-# dev: let b:startargs = "--help"
-
 # Imports {{{1
 from jira import JIRA
 import argparse
